@@ -12,7 +12,7 @@ function Footer() {
         />
       </a>
       <p>
-        Orgulhosamente criado durante a{" "}
+        Criador orgulhoso{" "}
         <a href="https://github.com/raphaelpavani" target="_blank">
           Raphael Pavani
         </a>
